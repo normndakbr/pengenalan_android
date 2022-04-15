@@ -5,7 +5,7 @@
     <img src="https://storage.googleapis.com/cms-storage-bucket/ec64036b4eacc9f3fd73.svg" alt="Logo" width="100" height="100">
   </a>
 
-<h3 align="center">Android Bootcamp</h3>
+<h2 align="center">Android Bootcamp</h3>
 </div>
 
 
